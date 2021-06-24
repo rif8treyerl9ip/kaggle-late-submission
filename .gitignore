@@ -1,0 +1,11 @@
+# csv ファイルは要らない
+*.csv
+
+# コミットしないフォルダー
+0621/
+.ipynb_checkpoints/
+titanic/
+Input/
+Output/
+Pickle/
+
